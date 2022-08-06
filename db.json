@@ -1,16 +1,51 @@
 {
-    "people": [
+    "rooms": [
         {
-            "id":0,
-            "name":"Salim"
+            "roomNum":1,
+            "temp":"4.5",
+            "humid":"78.7",
+            "tempAmb1":"4.5",
+            "tempAmb2":"4.1",
+            "cstTemp":"number",
+            "diffTemp":"number",
+            "degivTemo":"number",
+            "plageNum":"number"
         },
+        
         {
-            "id":1,
-            "name":"hamid"
+            "roomNum":2,
+            "temp":"4.3",
+            "humid":"85.7",
+            "tempAmb1":"4.3",
+            "tempAmb2":"4.5",
+            "cstTemp":"number",
+            "diffTemp":"number",
+            "degivTemo":"number",
+            "plageNum":"number"
         },
-{
-            "id":2,
-            "name":"Manaf"
+        
+        {
+            "roomNum":3,
+            "temp":"4.1",
+            "humid":"82.7",
+            "tempAmb1":"4.1",
+            "tempAmb2":"3.9",
+            "cstTemp":"number",
+            "diffTemp":"number",
+            "degivTemo":"number",
+            "plageNum":"number"
+        },
+        
+        {
+            "roomNum":4,
+            "temp":"3.4",
+            "humid":"94.7",
+            "tempAmb1":"3.4",
+            "tempAmb2":"3.1",
+            "cstTemp":"number",
+            "diffTemp":"number",
+            "degivTemo":"number",
+            "plageNum":"number"
         }
     ]
 }
