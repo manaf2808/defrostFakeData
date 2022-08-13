@@ -6,7 +6,7 @@
             "humid":"78.7",
             "tempAmb1":"4.5",
             "tempAmb2":"4.1",
-            "isCheckedd": false,
+            "isCheckedd": true,
             "cstTemp":"number",
             "diffTemp":"number",
             "degivTemo":"number",
