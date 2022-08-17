@@ -10,7 +10,9 @@
             "cstTemp":"number",
             "diffTemp":"number",
             "degivTemo":"number",
-            "plageNum":"number"
+            "plageNum":"number",
+            "defrost":true,
+            "shutdown":false
         },
         
         {
@@ -23,7 +25,9 @@
             "cstTemp":"number",
             "diffTemp":"number",
             "degivTemo":"number",
-            "plageNum":"number"
+            "plageNum":"number",
+            "defrost":false,
+            "shutdown":false
         },
         
         {
@@ -36,7 +40,9 @@
             "cstTemp":"number",
             "diffTemp":"number",
             "degivTemo":"number",
-            "plageNum":"number"
+            "plageNum":"number",
+            "defrost":false,
+            "shutdown":false
         },
         
         {
@@ -49,7 +55,9 @@
             "cstTemp":"number",
             "diffTemp":"number",
             "degivTemo":"number",
-            "plageNum":"number"
+            "plageNum":"number",
+            "defrost":false,
+            "shutdown":false
         }
     ]
 }
