@@ -11,7 +11,7 @@
             "diffTemp":"number",
             "degivTemo":"number",
             "plageNum":"number",
-            "defrost":true,
+            "defrost":false,
             "shutdown":false
         },
         
